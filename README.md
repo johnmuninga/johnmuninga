@@ -36,48 +36,7 @@
 <h1>🏆 GitHub Trophies</h1>
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=johnmuninga&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="johnmuninga" /></p>
 
-### Development Tools and Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,pycharm,visualstudio,vscode,windows,apple,figma&perline=5)](https://skillicons.dev)
-
-## 📊 My Github Stats
-
-<p align="">
-    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=radical" alt="languages" width="420"">
-</p>
-
-## 📊 My Streak Stats
-
-<p align="">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>
-</p>
-
-## 📊 My Contribution Stats
-
-<p align="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=radical" alt="DonBos27"/>
-</p>
-
-## 🏆 My Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&row=2&column=3theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
-</p>
-
-## 🚀 Achievements Badges
-
-<p align="">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B" style="">
-    <img 
-        src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
-        alt="Discover data analysis" 
-        width="130"
-        style=""
-    />
-  </a>
-</p>
 
 <h1>💰 You can help me by Donating</h1>
 <p align="left"><a href="https://paypal.me/johnmuninga1"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="johnmuninga" /></a></p>
