@@ -31,8 +31,7 @@
 <h1>📊 My Github Stats</h1>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmuninga&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="johnmuninga" /></p>
-<h1>📊 My Streak Stats</h1>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmuninga&" alt="johnmuninga" /></p>
+
 <h1>🏆 GitHub Trophies</h1>
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=johnmuninga&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="johnmuninga" /></p>
 
